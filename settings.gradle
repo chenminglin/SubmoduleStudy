@@ -1,0 +1,5 @@
+include ':app'
+include ':common'
+include ':common-sample'
+project(':common').projectDir = new File("SubmoduleStudy_common/common")
+project(':common-sample').projectDir = new File("SubmoduleStudy_common/common-sample")

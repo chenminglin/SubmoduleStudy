@@ -1,0 +1,3 @@
+[submodule "SubmoduleStudy_common"]
+	path = SubmoduleStudy_common
+	url = git@github.com:chenminglin/SubmoduleStudy_common.git
